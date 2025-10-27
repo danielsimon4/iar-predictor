@@ -1,6 +1,5 @@
 # IAR Predictor
 
-- **Author:** Daniel Simon
 - **Date Published:** 2025-10-26
 - **Version:** 1.0
 - **Access Online:** [https://iar-predictor.streamlit.app](https://iar-predictor.streamlit.app/)
