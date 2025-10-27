@@ -23,6 +23,6 @@ IAR predictor is a Streamlit app that enables schools to upload previous-year da
 ## Percentage Barplots
 
 <br>
-<img width="547" height="200" alt="Percentage Barplot" src="https://github.com/user-attachments/assets/88fc950f-ae93-4636-af22-1829ece511db" />
+<img width="383" height="140" alt="Percentage Barplot" src="https://github.com/user-attachments/assets/88fc950f-ae93-4636-af22-1829ece511db" />
 <br><br>
-<img width="547" height="150" alt="Difference Barplot" src="https://github.com/user-attachments/assets/7d0db54f-422b-44e7-8ed9-7a48520332c0" />
+<img width="383" height="105" alt="Difference Barplot" src="https://github.com/user-attachments/assets/7d0db54f-422b-44e7-8ed9-7a48520332c0" />
