@@ -16,13 +16,13 @@ IAR predictor is a Streamlit app that enables schools to upload previous-year da
 ## Sankey Diagrams
 
 <br>
-<img width="547" height="350" alt="Sankey Diagrams" src="https://github.com/user-attachments/assets/d18e8ebd-5a3f-4f66-85e3-4dc457593a13" />
+<img width="383" height="245" alt="Sankey Diagrams" src="https://github.com/user-attachments/assets/d18e8ebd-5a3f-4f66-85e3-4dc457593a13" />
 
 <br><br>
 
 ## Percentage Barplots
 
 <br>
-<img width="547" height="200" alt="Percentage Barplot" src="https://github.com/user-attachments/assets/88fc950f-ae93-4636-af22-1829ece511db" />
+<img width="383" height="140" alt="Percentage Barplot" src="https://github.com/user-attachments/assets/88fc950f-ae93-4636-af22-1829ece511db" />
 <br><br>
-<img width="547" height="150" alt="Difference Barplot" src="https://github.com/user-attachments/assets/7d0db54f-422b-44e7-8ed9-7a48520332c0" />
+<img width="383" height="105" alt="Difference Barplot" src="https://github.com/user-attachments/assets/7d0db54f-422b-44e7-8ed9-7a48520332c0" />
