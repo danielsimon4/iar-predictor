@@ -9,7 +9,7 @@
 
 ## Overview
 
-IAR predictor is a Streamlit app that enables schools to upload previous-year data (MAP and IAR scores) along with current-year MAP scores to predict IAR outcomes. The app features interactive visualizations, including Sankey diagrams and percentage barplots, to clearly illustrate how IAR levels are expected to change across grade levels.
+IAR predictor is a Streamlit app that enables schools to upload previous-year data (MAP and IAR scores) along with current-year data (MAP scores) to predict IAR outcomes. The app features interactive visualizations, including Sankey diagrams and percentage barplots, to clearly illustrate how IAR levels are expected to change across grade levels.
 
 <br>
 
